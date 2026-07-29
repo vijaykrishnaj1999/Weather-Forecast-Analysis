@@ -1,4 +1,4 @@
-Overview
+**Description**
 This Power BI dashboard provides a 7-day weather forecast analysis for major cities worldwide. It visualizes temperature trends, weather conditions, humidity, precipitation, and key weather metrics to help track daily forecasts.
 
 Features
