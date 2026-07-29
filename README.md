@@ -31,3 +31,5 @@ Key Insights
 - **Weather Variety**: Mix of Sunny, Rainy, Stormy, and Cloudy conditions across the week
 - **City Comparison**: Delhi and Lagos show highest temps at ~25.9°C and ~25.4°C
 - **Humidity Trend**: Humidity varies from 48% to 81% throughout the week
+Path
+Screenshot .jpg
