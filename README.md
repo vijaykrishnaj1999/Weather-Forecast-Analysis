@@ -32,3 +32,4 @@ Key Insights
 - **City Comparison**: Delhi and Lagos show highest temps at ~25.9°C and ~25.4°C
 - **Humidity Trend**: Humidity varies from 48% to 81% throughout the week
 
+<img width="1156" height="632" alt="Screenshot " src="https://github.com/user-attachments/assets/3041d1a5-5a75-401b-8ca8-ef4e1b013e9d" />
